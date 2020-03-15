@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Constants &amp; Variables'/>
+        <page name='Int'/>
+        <page name='Float &amp; Double'/>
+        <page name='Conversion'/>
+        <page name='Boolean &amp; if'/>
+        <page name='Tuple'/>
+        <page name='Operators'/>
+        <page name='Loop'/>
+        <page name='if-else &amp; switch'/>
+        <page name='Guard'/>
+        <page name='String'/>
+        <page name='Optional'/>
+        <page name='Array'/>
+        <page name='Dictionary &amp; Set'/>
+        <page name='Function'/>
+        <page name='Closure'/>
+        <page name='Enumeration'/>
+        <page name='Struct'/>
+        <page name='Class'/>
+        <page name='Properties &amp; Metheds'/>
+        <page name='Inheritance'/>
+        <page name='Initialization'/>
+        <page name='Documentaion'/>
+        <page name='Subscript'/>
+        <page name='Operator Overloading'/>
+        <page name='Extension'/>
+        <page name='Generic'/>
+        <page name='Protocol'/>
+        <page name='Protocol Oriented Programming'/>
+        <page name='Delegation'/>
+        <page name='Error Handling'/>
+        <page name='Memory Management'/>
+        <page name='Type Casting'/>
+        <page name='For in and Tuple'/>
+        <page name='Selector'/>
+        <page name='Swift 3 Changes'/>
+        <page name='@autoclosure'/>
+    </pages>
+</playground>
